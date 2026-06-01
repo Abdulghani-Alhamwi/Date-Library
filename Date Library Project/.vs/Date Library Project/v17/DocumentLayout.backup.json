@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\My Projects\\Date Library\\Date-Library\\Date Library Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EB6047F-556F-4A13-8696-B0C42D029A87}|Date Library Project\\Date Library Project Doctor Solution.vcxproj|D:\\My Projects\\Date Library\\Date-Library\\Date Library Project\\Date Library Project\\Date Library Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0EB6047F-556F-4A13-8696-B0C42D029A87}|Date Library Project\\Date Library Project Doctor Solution.vcxproj|solutionrelative:Date Library Project\\Date Library Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0EB6047F-556F-4A13-8696-B0C42D029A87}|Date Library Project\\Date Library Project.vcxproj|D:\\My Projects\\Date Library\\Date-Library\\Date Library Project\\Date Library Project\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EB6047F-556F-4A13-8696-B0C42D029A87}|Date Library Project\\Date Library Project.vcxproj|solutionrelative:Date Library Project\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB6047F-556F-4A13-8696-B0C42D029A87}|Date Library Project\\Date Library Project Doctor Solution.vcxproj|D:\\My Projects\\Date Library\\Date-Library\\Date Library Project\\Date Library Project\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0EB6047F-556F-4A13-8696-B0C42D029A87}|Date Library Project\\Date Library Project Doctor Solution.vcxproj|solutionrelative:Date Library Project\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0EB6047F-556F-4A13-8696-B0C42D029A87}|Date Library Project\\Date Library Project.vcxproj|D:\\My Projects\\Date Library\\Date-Library\\Date Library Project\\Date Library Project\\Date Library Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EB6047F-556F-4A13-8696-B0C42D029A87}|Date Library Project\\Date Library Project.vcxproj|solutionrelative:Date Library Project\\Date Library Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -42,28 +46,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Date Library Project.cpp",
               "DocumentMoniker": "D:\\My Projects\\Date Library\\Date-Library\\Date Library Project\\Date Library Project\\Date Library Project.cpp",
               "RelativeDocumentMoniker": "Date Library Project\\Date Library Project.cpp",
               "ToolTip": "D:\\My Projects\\Date Library\\Date-Library\\Date Library Project\\Date Library Project\\Date Library Project.cpp",
               "RelativeToolTip": "Date Library Project\\Date Library Project.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-01T16:52:56.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T20:25:28.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "clsDate.h",
               "DocumentMoniker": "D:\\My Projects\\Date Library\\Date-Library\\Date Library Project\\Date Library Project\\clsDate.h",
               "RelativeDocumentMoniker": "Date Library Project\\clsDate.h",
               "ToolTip": "D:\\My Projects\\Date Library\\Date-Library\\Date Library Project\\Date Library Project\\clsDate.h",
               "RelativeToolTip": "Date Library Project\\clsDate.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-01T16:52:41.706Z",
+              "WhenOpened": "2026-06-01T20:25:27.514Z",
               "EditorCaption": ""
             }
           ]
